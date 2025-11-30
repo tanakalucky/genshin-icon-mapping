@@ -1,0 +1,34 @@
+name: Update Character Mapping
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update-mapping:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate mapping
+        run: ./scripts/generate-mapping.sh
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code output/mapping.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/mapping.json
+          git commit -m "chore: update character mapping"
+          git push
