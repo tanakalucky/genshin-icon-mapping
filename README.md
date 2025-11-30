@@ -4,7 +4,7 @@ Static JSON mapping of Genshin Impact character IDs to icon URLs.
 
 ## 📦 Usage
 ```javascript
-const MAPPING_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/mapping.json';
+const MAPPING_URL = 'https://raw.githubusercontent.com/tanakalucky/genshin-icon-mapping/main/output/mapping.json';
 
 const response = await fetch(MAPPING_URL);
 const mapping = await response.json();
