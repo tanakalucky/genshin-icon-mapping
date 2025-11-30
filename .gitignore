@@ -1,0 +1,9 @@
+# 元データ (大きいので)
+data/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/

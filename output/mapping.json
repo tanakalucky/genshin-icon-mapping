@@ -1,0 +1,686 @@
+{
+  "10000002": {
+    "avatarId": 10000002,
+    "iconKey": "UI_AvatarIcon_Ayaka",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Ayaka.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Ayaka.png"
+  },
+  "10000003": {
+    "avatarId": 10000003,
+    "iconKey": "UI_AvatarIcon_Qin",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Qin.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Qin.png"
+  },
+  "10000005": {
+    "avatarId": 10000005,
+    "iconKey": "UI_AvatarIcon_PlayerBoy",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_PlayerBoy.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_PlayerBoy.png"
+  },
+  "10000006": {
+    "avatarId": 10000006,
+    "iconKey": "UI_AvatarIcon_Lisa",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Lisa.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Lisa.png"
+  },
+  "10000007": {
+    "avatarId": 10000007,
+    "iconKey": "UI_AvatarIcon_PlayerGirl",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_PlayerGirl.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_PlayerGirl.png"
+  },
+  "10000014": {
+    "avatarId": 10000014,
+    "iconKey": "UI_AvatarIcon_Barbara",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Barbara.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Barbara.png"
+  },
+  "10000015": {
+    "avatarId": 10000015,
+    "iconKey": "UI_AvatarIcon_Kaeya",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Kaeya.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Kaeya.png"
+  },
+  "10000016": {
+    "avatarId": 10000016,
+    "iconKey": "UI_AvatarIcon_Diluc",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Diluc.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Diluc.png"
+  },
+  "10000020": {
+    "avatarId": 10000020,
+    "iconKey": "UI_AvatarIcon_Razor",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Razor.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Razor.png"
+  },
+  "10000021": {
+    "avatarId": 10000021,
+    "iconKey": "UI_AvatarIcon_Ambor",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Ambor.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Ambor.png"
+  },
+  "10000022": {
+    "avatarId": 10000022,
+    "iconKey": "UI_AvatarIcon_Venti",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Venti.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Venti.png"
+  },
+  "10000023": {
+    "avatarId": 10000023,
+    "iconKey": "UI_AvatarIcon_Xiangling",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Xiangling.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Xiangling.png"
+  },
+  "10000024": {
+    "avatarId": 10000024,
+    "iconKey": "UI_AvatarIcon_Beidou",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Beidou.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Beidou.png"
+  },
+  "10000025": {
+    "avatarId": 10000025,
+    "iconKey": "UI_AvatarIcon_Xingqiu",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Xingqiu.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Xingqiu.png"
+  },
+  "10000026": {
+    "avatarId": 10000026,
+    "iconKey": "UI_AvatarIcon_Xiao",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Xiao.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Xiao.png"
+  },
+  "10000027": {
+    "avatarId": 10000027,
+    "iconKey": "UI_AvatarIcon_Ningguang",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Ningguang.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Ningguang.png"
+  },
+  "10000029": {
+    "avatarId": 10000029,
+    "iconKey": "UI_AvatarIcon_Klee",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Klee.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Klee.png"
+  },
+  "10000030": {
+    "avatarId": 10000030,
+    "iconKey": "UI_AvatarIcon_Zhongli",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Zhongli.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Zhongli.png"
+  },
+  "10000031": {
+    "avatarId": 10000031,
+    "iconKey": "UI_AvatarIcon_Fischl",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Fischl.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Fischl.png"
+  },
+  "10000032": {
+    "avatarId": 10000032,
+    "iconKey": "UI_AvatarIcon_Bennett",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Bennett.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Bennett.png"
+  },
+  "10000033": {
+    "avatarId": 10000033,
+    "iconKey": "UI_AvatarIcon_Tartaglia",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Tartaglia.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Tartaglia.png"
+  },
+  "10000034": {
+    "avatarId": 10000034,
+    "iconKey": "UI_AvatarIcon_Noel",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Noel.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Noel.png"
+  },
+  "10000035": {
+    "avatarId": 10000035,
+    "iconKey": "UI_AvatarIcon_Qiqi",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Qiqi.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Qiqi.png"
+  },
+  "10000036": {
+    "avatarId": 10000036,
+    "iconKey": "UI_AvatarIcon_Chongyun",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Chongyun.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Chongyun.png"
+  },
+  "10000037": {
+    "avatarId": 10000037,
+    "iconKey": "UI_AvatarIcon_Ganyu",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Ganyu.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Ganyu.png"
+  },
+  "10000038": {
+    "avatarId": 10000038,
+    "iconKey": "UI_AvatarIcon_Albedo",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Albedo.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Albedo.png"
+  },
+  "10000039": {
+    "avatarId": 10000039,
+    "iconKey": "UI_AvatarIcon_Diona",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Diona.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Diona.png"
+  },
+  "10000041": {
+    "avatarId": 10000041,
+    "iconKey": "UI_AvatarIcon_Mona",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Mona.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Mona.png"
+  },
+  "10000042": {
+    "avatarId": 10000042,
+    "iconKey": "UI_AvatarIcon_Keqing",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Keqing.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Keqing.png"
+  },
+  "10000043": {
+    "avatarId": 10000043,
+    "iconKey": "UI_AvatarIcon_Sucrose",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Sucrose.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Sucrose.png"
+  },
+  "10000044": {
+    "avatarId": 10000044,
+    "iconKey": "UI_AvatarIcon_Xinyan",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Xinyan.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Xinyan.png"
+  },
+  "10000045": {
+    "avatarId": 10000045,
+    "iconKey": "UI_AvatarIcon_Rosaria",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Rosaria.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Rosaria.png"
+  },
+  "10000046": {
+    "avatarId": 10000046,
+    "iconKey": "UI_AvatarIcon_Hutao",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Hutao.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Hutao.png"
+  },
+  "10000047": {
+    "avatarId": 10000047,
+    "iconKey": "UI_AvatarIcon_Kazuha",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Kazuha.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Kazuha.png"
+  },
+  "10000048": {
+    "avatarId": 10000048,
+    "iconKey": "UI_AvatarIcon_Feiyan",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Feiyan.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Feiyan.png"
+  },
+  "10000049": {
+    "avatarId": 10000049,
+    "iconKey": "UI_AvatarIcon_Yoimiya",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Yoimiya.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Yoimiya.png"
+  },
+  "10000050": {
+    "avatarId": 10000050,
+    "iconKey": "UI_AvatarIcon_Tohma",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Tohma.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Tohma.png"
+  },
+  "10000051": {
+    "avatarId": 10000051,
+    "iconKey": "UI_AvatarIcon_Eula",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Eula.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Eula.png"
+  },
+  "10000052": {
+    "avatarId": 10000052,
+    "iconKey": "UI_AvatarIcon_Shougun",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Shougun.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Shougun.png"
+  },
+  "10000053": {
+    "avatarId": 10000053,
+    "iconKey": "UI_AvatarIcon_Sayu",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Sayu.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Sayu.png"
+  },
+  "10000054": {
+    "avatarId": 10000054,
+    "iconKey": "UI_AvatarIcon_Kokomi",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Kokomi.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Kokomi.png"
+  },
+  "10000055": {
+    "avatarId": 10000055,
+    "iconKey": "UI_AvatarIcon_Gorou",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Gorou.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Gorou.png"
+  },
+  "10000056": {
+    "avatarId": 10000056,
+    "iconKey": "UI_AvatarIcon_Sara",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Sara.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Sara.png"
+  },
+  "10000057": {
+    "avatarId": 10000057,
+    "iconKey": "UI_AvatarIcon_Itto",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Itto.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Itto.png"
+  },
+  "10000058": {
+    "avatarId": 10000058,
+    "iconKey": "UI_AvatarIcon_Yae",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Yae.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Yae.png"
+  },
+  "10000059": {
+    "avatarId": 10000059,
+    "iconKey": "UI_AvatarIcon_Heizo",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Heizo.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Heizo.png"
+  },
+  "10000060": {
+    "avatarId": 10000060,
+    "iconKey": "UI_AvatarIcon_Yelan",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Yelan.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Yelan.png"
+  },
+  "10000061": {
+    "avatarId": 10000061,
+    "iconKey": "UI_AvatarIcon_Momoka",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Momoka.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Momoka.png"
+  },
+  "10000062": {
+    "avatarId": 10000062,
+    "iconKey": "UI_AvatarIcon_Aloy",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Aloy.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Aloy.png"
+  },
+  "10000063": {
+    "avatarId": 10000063,
+    "iconKey": "UI_AvatarIcon_Shenhe",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Shenhe.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Shenhe.png"
+  },
+  "10000064": {
+    "avatarId": 10000064,
+    "iconKey": "UI_AvatarIcon_Yunjin",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Yunjin.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Yunjin.png"
+  },
+  "10000065": {
+    "avatarId": 10000065,
+    "iconKey": "UI_AvatarIcon_Shinobu",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Shinobu.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Shinobu.png"
+  },
+  "10000066": {
+    "avatarId": 10000066,
+    "iconKey": "UI_AvatarIcon_Ayato",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Ayato.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Ayato.png"
+  },
+  "10000067": {
+    "avatarId": 10000067,
+    "iconKey": "UI_AvatarIcon_Collei",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Collei.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Collei.png"
+  },
+  "10000068": {
+    "avatarId": 10000068,
+    "iconKey": "UI_AvatarIcon_Dori",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Dori.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Dori.png"
+  },
+  "10000069": {
+    "avatarId": 10000069,
+    "iconKey": "UI_AvatarIcon_Tighnari",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Tighnari.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Tighnari.png"
+  },
+  "10000070": {
+    "avatarId": 10000070,
+    "iconKey": "UI_AvatarIcon_Nilou",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Nilou.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Nilou.png"
+  },
+  "10000071": {
+    "avatarId": 10000071,
+    "iconKey": "UI_AvatarIcon_Cyno",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Cyno.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Cyno.png"
+  },
+  "10000072": {
+    "avatarId": 10000072,
+    "iconKey": "UI_AvatarIcon_Candace",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Candace.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Candace.png"
+  },
+  "10000073": {
+    "avatarId": 10000073,
+    "iconKey": "UI_AvatarIcon_Nahida",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Nahida.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Nahida.png"
+  },
+  "10000074": {
+    "avatarId": 10000074,
+    "iconKey": "UI_AvatarIcon_Layla",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Layla.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Layla.png"
+  },
+  "10000075": {
+    "avatarId": 10000075,
+    "iconKey": "UI_AvatarIcon_Wanderer",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Wanderer.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Wanderer.png"
+  },
+  "10000076": {
+    "avatarId": 10000076,
+    "iconKey": "UI_AvatarIcon_Faruzan",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Faruzan.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Faruzan.png"
+  },
+  "10000077": {
+    "avatarId": 10000077,
+    "iconKey": "UI_AvatarIcon_Yaoyao",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Yaoyao.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Yaoyao.png"
+  },
+  "10000078": {
+    "avatarId": 10000078,
+    "iconKey": "UI_AvatarIcon_Alhatham",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Alhatham.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Alhatham.png"
+  },
+  "10000079": {
+    "avatarId": 10000079,
+    "iconKey": "UI_AvatarIcon_Dehya",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Dehya.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Dehya.png"
+  },
+  "10000080": {
+    "avatarId": 10000080,
+    "iconKey": "UI_AvatarIcon_Mika",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Mika.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Mika.png"
+  },
+  "10000081": {
+    "avatarId": 10000081,
+    "iconKey": "UI_AvatarIcon_Kaveh",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Kaveh.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Kaveh.png"
+  },
+  "10000082": {
+    "avatarId": 10000082,
+    "iconKey": "UI_AvatarIcon_Baizhuer",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Baizhuer.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Baizhuer.png"
+  },
+  "10000083": {
+    "avatarId": 10000083,
+    "iconKey": "UI_AvatarIcon_Linette",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Linette.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Linette.png"
+  },
+  "10000084": {
+    "avatarId": 10000084,
+    "iconKey": "UI_AvatarIcon_Liney",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Liney.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Liney.png"
+  },
+  "10000085": {
+    "avatarId": 10000085,
+    "iconKey": "UI_AvatarIcon_Freminet",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Freminet.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Freminet.png"
+  },
+  "10000086": {
+    "avatarId": 10000086,
+    "iconKey": "UI_AvatarIcon_Wriothesley",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Wriothesley.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Wriothesley.png"
+  },
+  "10000087": {
+    "avatarId": 10000087,
+    "iconKey": "UI_AvatarIcon_Neuvillette",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Neuvillette.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Neuvillette.png"
+  },
+  "10000088": {
+    "avatarId": 10000088,
+    "iconKey": "UI_AvatarIcon_Charlotte",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Charlotte.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Charlotte.png"
+  },
+  "10000089": {
+    "avatarId": 10000089,
+    "iconKey": "UI_AvatarIcon_Furina",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Furina.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Furina.png"
+  },
+  "10000090": {
+    "avatarId": 10000090,
+    "iconKey": "UI_AvatarIcon_Chevreuse",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Chevreuse.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Chevreuse.png"
+  },
+  "10000091": {
+    "avatarId": 10000091,
+    "iconKey": "UI_AvatarIcon_Navia",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Navia.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Navia.png"
+  },
+  "10000092": {
+    "avatarId": 10000092,
+    "iconKey": "UI_AvatarIcon_Gaming",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Gaming.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Gaming.png"
+  },
+  "10000093": {
+    "avatarId": 10000093,
+    "iconKey": "UI_AvatarIcon_Liuyun",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Liuyun.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Liuyun.png"
+  },
+  "10000094": {
+    "avatarId": 10000094,
+    "iconKey": "UI_AvatarIcon_Chiori",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Chiori.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Chiori.png"
+  },
+  "10000095": {
+    "avatarId": 10000095,
+    "iconKey": "UI_AvatarIcon_Sigewinne",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Sigewinne.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Sigewinne.png"
+  },
+  "10000096": {
+    "avatarId": 10000096,
+    "iconKey": "UI_AvatarIcon_Arlecchino",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Arlecchino.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Arlecchino.png"
+  },
+  "10000097": {
+    "avatarId": 10000097,
+    "iconKey": "UI_AvatarIcon_Sethos",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Sethos.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Sethos.png"
+  },
+  "10000098": {
+    "avatarId": 10000098,
+    "iconKey": "UI_AvatarIcon_Clorinde",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Clorinde.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Clorinde.png"
+  },
+  "10000099": {
+    "avatarId": 10000099,
+    "iconKey": "UI_AvatarIcon_Emilie",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Emilie.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Emilie.png"
+  },
+  "10000100": {
+    "avatarId": 10000100,
+    "iconKey": "UI_AvatarIcon_Kachina",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Kachina.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Kachina.png"
+  },
+  "10000101": {
+    "avatarId": 10000101,
+    "iconKey": "UI_AvatarIcon_Kinich",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Kinich.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Kinich.png"
+  },
+  "10000102": {
+    "avatarId": 10000102,
+    "iconKey": "UI_AvatarIcon_Mualani",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Mualani.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Mualani.png"
+  },
+  "10000103": {
+    "avatarId": 10000103,
+    "iconKey": "UI_AvatarIcon_Xilonen",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Xilonen.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Xilonen.png"
+  },
+  "10000104": {
+    "avatarId": 10000104,
+    "iconKey": "UI_AvatarIcon_Chasca",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Chasca.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Chasca.png"
+  },
+  "10000105": {
+    "avatarId": 10000105,
+    "iconKey": "UI_AvatarIcon_Olorun",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Olorun.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Olorun.png"
+  },
+  "10000106": {
+    "avatarId": 10000106,
+    "iconKey": "UI_AvatarIcon_Mavuika",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Mavuika.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Mavuika.png"
+  },
+  "10000107": {
+    "avatarId": 10000107,
+    "iconKey": "UI_AvatarIcon_Citlali",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Citlali.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Citlali.png"
+  },
+  "10000108": {
+    "avatarId": 10000108,
+    "iconKey": "UI_AvatarIcon_Lanyan",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Lanyan.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Lanyan.png"
+  },
+  "10000109": {
+    "avatarId": 10000109,
+    "iconKey": "UI_AvatarIcon_Mizuki",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Mizuki.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Mizuki.png"
+  },
+  "10000110": {
+    "avatarId": 10000110,
+    "iconKey": "UI_AvatarIcon_Iansan",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Iansan.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Iansan.png"
+  },
+  "10000111": {
+    "avatarId": 10000111,
+    "iconKey": "UI_AvatarIcon_Varesa",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Varesa.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Varesa.png"
+  },
+  "10000112": {
+    "avatarId": 10000112,
+    "iconKey": "UI_AvatarIcon_Escoffier",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Escoffier.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Escoffier.png"
+  },
+  "10000113": {
+    "avatarId": 10000113,
+    "iconKey": "UI_AvatarIcon_Ifa",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Ifa.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Ifa.png"
+  },
+  "10000114": {
+    "avatarId": 10000114,
+    "iconKey": "UI_AvatarIcon_SkirkNew",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_SkirkNew.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_SkirkNew.png"
+  },
+  "10000115": {
+    "avatarId": 10000115,
+    "iconKey": "UI_AvatarIcon_Dahlia",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Dahlia.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Dahlia.png"
+  },
+  "10000116": {
+    "avatarId": 10000116,
+    "iconKey": "UI_AvatarIcon_Ineffa",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Ineffa.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Ineffa.png"
+  },
+  "10000117": {
+    "avatarId": 10000117,
+    "iconKey": "UI_AvatarIcon_MannequinBoy",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_MannequinBoy.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_MannequinBoy.png"
+  },
+  "10000118": {
+    "avatarId": 10000118,
+    "iconKey": "UI_AvatarIcon_MannequinGirl",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_MannequinGirl.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_MannequinGirl.png"
+  },
+  "10000119": {
+    "avatarId": 10000119,
+    "iconKey": "UI_AvatarIcon_Lauma",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Lauma.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Lauma.png"
+  },
+  "10000120": {
+    "avatarId": 10000120,
+    "iconKey": "UI_AvatarIcon_Flins",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Flins.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Flins.png"
+  },
+  "10000121": {
+    "avatarId": 10000121,
+    "iconKey": "UI_AvatarIcon_Aino",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Aino.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Aino.png"
+  },
+  "10000122": {
+    "avatarId": 10000122,
+    "iconKey": "UI_AvatarIcon_Nefer",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Nefer.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Nefer.png"
+  },
+  "10000901": {
+    "avatarId": 10000901,
+    "iconKey": "UI_AvatarIcon_Mavuika",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Mavuika.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Mavuika.png"
+  },
+  "10000902": {
+    "avatarId": 10000902,
+    "iconKey": "UI_AvatarIcon_Hutao",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Hutao.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Hutao.png"
+  },
+  "10000903": {
+    "avatarId": 10000903,
+    "iconKey": "UI_AvatarIcon_Ineffa",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Ineffa.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Ineffa.png"
+  },
+  "10000998": {
+    "avatarId": 10000998,
+    "iconKey": "UI_AvatarIcon_PlayerBoy",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_PlayerBoy.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_PlayerBoy.png"
+  },
+  "10000999": {
+    "avatarId": 10000999,
+    "iconKey": "UI_AvatarIcon_PlayerGirl",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_PlayerGirl.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_PlayerGirl.png"
+  }
+}
