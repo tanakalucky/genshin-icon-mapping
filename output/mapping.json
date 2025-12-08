@@ -653,6 +653,18 @@
     "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Nefer.png",
     "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Nefer.png"
   },
+  "10000123": {
+    "avatarId": 10000123,
+    "iconKey": "UI_AvatarIcon_Durin",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Durin.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Durin.png"
+  },
+  "10000124": {
+    "avatarId": 10000124,
+    "iconKey": "UI_AvatarIcon_Jahoda",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Jahoda.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Jahoda.png"
+  },
   "10000901": {
     "avatarId": 10000901,
     "iconKey": "UI_AvatarIcon_Mavuika",
@@ -670,6 +682,12 @@
     "iconKey": "UI_AvatarIcon_Ineffa",
     "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Ineffa.png",
     "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Ineffa.png"
+  },
+  "10000904": {
+    "avatarId": 10000904,
+    "iconKey": "UI_AvatarIcon_Columbina",
+    "iconUrl": "https://enka.network/ui/UI_AvatarIcon_Columbina.png",
+    "sideIconUrl": "https://enka.network/ui/UI_AvatarIcon_Side_Columbina.png"
   },
   "10000998": {
     "avatarId": 10000998,
